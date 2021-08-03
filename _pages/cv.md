@@ -11,49 +11,57 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Economics, Cornell University, 2022 (expected)
+* M.S. in Economics, University of Wisconsin-Madison, 2015
+* B.S. in Quantitative Economics, Shanghai University of Finance and Economics, 2014
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Research Field
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Empirical Industrial Organization, Firm Dynamics, Trade
 
-Publications
+Working Paper
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Demand Risk, Upstream Market Power and Sourcing Decisions in the US Automobile Industry. (Job Market Paper)
+* Productivity and Exporting Behavior in the Chinese Footwear Industry.
+
+Working in Progress
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+* Vintage Capital and Venture Capital Investment Concentration. (With Kyle Kuang and Bin Zhao)
+
+
+Research Experience
+======
+* Summer 2018- Summer 2021: Research Assistant for Yifei Mao, School of Hotel Administration, Cornell University
+* Fall 2014: Research Assistant: Research Assistant for Feng Huang, Institute for Advanced Research(IAR),Shanghai University of Finance and Economics
+
+Awards & Fellowships
+======
+* Graduate Tapan Mitra Economics Prizes, Cornell University, 2019
+* Sage Fellowship,Cornell University,2016-2021
+* Outstanding Graduates, Shanghai University of Finance and Economics, 2014
+
+Activities and Professional Service
+======
+* Student IO workshop organizer, Cornell University, 2018-
+* Student IO Reading Group organizer,Cornell University,2020
+* Attendee, Penn State-Cornell Econometrics & IO Conference, 2018, 2019
+* Mentor, Graduate Student Association for Economics Mentorship Program, Cornell University, 2018-
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* Programming : MATLAB, Julia, Stata, Python, R
+* Language : English (fluent), Chinese (native)
+
+Personal Information
+======
+* Citizenship : China
+  
+
+
