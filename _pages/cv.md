@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[[download CV](http://qinshuxue.com/files/CV.pdf)]  
 
 Education
 ======
