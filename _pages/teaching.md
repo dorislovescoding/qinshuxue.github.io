@@ -8,7 +8,7 @@ author_profile: true
 
 
 ## Past Teaching
-Introductory Microeconomics Head TA (undergraduate), Fall 2021          
+Introductory Microeconomics COTA (undergraduate), Fall 2021          
 Introductory Microeconomics (undergraduate),Fall 2017, Spring 2018    
 Probability and Statistics (undergraduate),Fall 2018     
 Econometrics (undergraduate),Spring 2019,Spring 2020    
