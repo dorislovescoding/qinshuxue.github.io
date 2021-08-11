@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Qinshu Xue"
 title_separator          : "-"
 name                     : &name "Qinshu Xue"
-description              : &description "personal description"
+description              : &description "PhD Student, Cornell University Department of Economics"
 url                      : https://qinshuxue.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dorislovescoding/qinshuxue.github.io"
@@ -88,7 +88,6 @@ author:
   pubmed           : 
   googlescholar    : 
   email            : "qx48@cornell.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +99,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
